@@ -1,2 +1,2 @@
-print("Git Solo Tutorial")
-print("Daniel Jun")
+Git Solo Tutorial
+Daniel Jun
